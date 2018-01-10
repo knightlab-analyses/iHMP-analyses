@@ -16,4 +16,5 @@ ENV/
 dianosis_simpe.pdf
 
 # files to download
-taxonomic_profiles*
+*.tsv.gz
+*.biom
