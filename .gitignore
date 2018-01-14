@@ -1,0 +1,21 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# dotenv
+.env
+
+# virtualenv
+.venv
+venv/
+ENV/
+
+# actual resulting plot
+dianosis_simpe.pdf
+
+# files to download
+*.gz
+*.biom
+*.csv
